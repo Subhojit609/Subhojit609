@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhojit Paul</h1>
+<h1 align="center">Hi 👋, I'm Subhojit</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 - 🔭 I’m currently working on **Bacterial Promoter Prediction using Explainable AI**
