@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bacterial Promoter Prediction using Explainable AI**
 
-- 🌱 I’m currently learning **MLOPs, Deep Learning, NLP, CI/CD**
+- 🌱 I’m currently learning **Analytics, ML, Data Science**
 
 - 💬 Ask me about **Data**
 
